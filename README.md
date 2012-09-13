@@ -1,4 +1,3 @@
-/**
   * Bootrom-Dumper
   * Copyright (C) 2010 pod2g
   * Copyright (C) 2012 Ra1ningSn0w
@@ -15,7 +14,7 @@
   *
   * You should have received a copy of the GNU General Public License
   * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- **/
+
  
  This is a Windows port of pod2g's Bootrom-Dumper for Windows
  
